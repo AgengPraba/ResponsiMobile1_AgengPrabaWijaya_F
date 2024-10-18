@@ -1,17 +1,24 @@
-# aplikasi_manajemen_buku
+# Aplikasi Manajemen Buku
+Responsi 1 praktikum pemrograman mobile aplikasi manajemen buku tabel penulis.
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+### Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# ResponsiMobile1_AgengPrabaWijaya_F
+<p>
+  <img src="registrasi.png" style="margin: 10px;">
+  <img src="login.png" style="margin: 10px;">
+  <img src="login2.png"  style="margin: 10px;">
+  <img src="login_gagal.png"  style="margin: 10px;">
+  <img src="logout"  style="margin: 10px;">
+  <img src="list_penulis.png"  style="margin: 10px;">
+  <img src="tambah_penulis.png"  style="margin: 10px;">
+  <img src="tambah_penulis_2.png"  style="margin: 10px;">
+  <img src="tambah_penulis_3.png"  style="margin: 10px;">
+  <img src="detail_penulis.png"  style="margin: 10px;">
+  <img src="ubah_penulis.png"  style="margin: 10px;">
+  <img src="ubah_penulis_2.png"  style="margin: 10px;">
+  <img src="hapus_penulis.png"  style="margin: 10px;">
+  <img src="hapus_penulis_2.png"  style="margin: 10px;">
+</p>
