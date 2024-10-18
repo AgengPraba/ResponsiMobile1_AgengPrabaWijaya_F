@@ -11,7 +11,6 @@ Responsi 1 praktikum pemrograman mobile aplikasi manajemen buku tabel penulis.
   <img src="login.png" style="margin: 10px;">
   <img src="login2.png"  style="margin: 10px;">
   <img src="login_gagal.png"  style="margin: 10px;">
-  <img src="logout"  style="margin: 10px;">
   <img src="list_penulis.png"  style="margin: 10px;">
   <img src="tambah_penulis.png"  style="margin: 10px;">
   <img src="tambah_penulis_2.png"  style="margin: 10px;">
@@ -21,4 +20,5 @@ Responsi 1 praktikum pemrograman mobile aplikasi manajemen buku tabel penulis.
   <img src="ubah_penulis_2.png"  style="margin: 10px;">
   <img src="hapus_penulis.png"  style="margin: 10px;">
   <img src="hapus_penulis_2.png"  style="margin: 10px;">
+  <img src="logout.png"  style="margin: 10px;">
 </p>
