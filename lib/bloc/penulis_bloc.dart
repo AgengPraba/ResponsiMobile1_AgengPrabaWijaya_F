@@ -3,7 +3,8 @@ import 'package:aplikasi_manajemen_buku/helpers/api.dart';
 import 'package:aplikasi_manajemen_buku/model/penulis.dart';
 
 class PenulisBloc {
-  static const String baseUrl = 'http://103.196.155.42/api/buku/penulis';
+  static const String baseUrl =
+      'https://responsi.webwizards.my.id/api/buku/penulis';
 
   // Mendapatkan list semua penulis
   static Future<List<Penulis>> getPenuliss() async {
